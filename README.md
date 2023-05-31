@@ -5,6 +5,6 @@ One can run a demo to interactively utilize it. The tutorial for deploying and u
 
 ## Usage
 1. Clone this repo to your favourite destination
-2. Download weights for BART model from the following link, and add to the './nltk/model/' folder: 
+2. Download weights for BART model from the following link, and add to the './nltk/model/' folder: https://drive.google.com/file/d/1oswE6VUJdHXKb6Nkxf3YaNH1GBvSBufG/view?usp=drive_link
 3. Either run the 'demo test.py' file, or run the following snippet: `python demofile.py`.
 4. Connect to the generated address.
