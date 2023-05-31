@@ -110,7 +110,7 @@ def generate_summary_alternate(file):
     X = vectorizer.fit_transform(sentences)
 
     # Cluster the sentences using KMeans algorithm
-    num_clusters = 6
+    num_clusters = 3
     km = KMeans(n_clusters=num_clusters)
     km.fit(X)
 
